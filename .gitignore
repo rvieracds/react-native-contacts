@@ -2,6 +2,9 @@ node_modules
 ios/RCTContacts.xcodeproj/xcuserdata
 ios/RCTContacts.xcodeproj/project.xcworkspace
 
+# OS X
+.DS_Store
+
 # Intellij
 .idea
 
